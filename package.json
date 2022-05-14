@@ -1,0 +1,20 @@
+{
+  "name": "proyectos-openbootcamp",
+  "version": "1.0.0",
+  "description": "Open-Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "hola": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IducSoft/Proyectos-OpenBootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IducSoft/Proyectos-OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/IducSoft/Proyectos-OpenBootcamp#readme"
+}
