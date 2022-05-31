@@ -1,0 +1,9 @@
+let name = "Isaac", 
+lastName = "Urdaneta", 
+estudiante = `${name} ${lastName}`, 
+estudianteMayus= `${estudiante.toUpperCase}`,
+estudianteMinus= `${estudiante.toLowerCase}`,
+firstLetterName = name[0],
+lastLetterLastName = lastName[lastName.length - 1],
+withoutSpace = estudiante.replace(/ /g, ""),
+includesInString = estudiante.includes(name)
