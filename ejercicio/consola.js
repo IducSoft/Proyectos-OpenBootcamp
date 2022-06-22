@@ -1,0 +1,1 @@
+let edad = parseFloat(prompt("cual es tu edad"))
