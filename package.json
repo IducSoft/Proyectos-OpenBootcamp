@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IducSoft/Proyectos-OpenBootcamp/issues"
   },
-  "homepage": "https://github.com/IducSoft/Proyectos-OpenBootcamp#readme"
+  "homepage": "https://github.com/IducSoft/Proyectos-OpenBootcamp#readme",
+  "dependencies": {
+    "winston": "^3.8.0"
+  }
 }
