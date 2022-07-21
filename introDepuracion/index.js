@@ -1,5 +1,4 @@
 const persona = {
-
     nombre: "isaac",
     edad: 34
 }
@@ -12,4 +11,4 @@ function multiplicarEdad(edad){
 
 let verEdad = multiplicarEdad(persona.edad);
 
-console.log(verEdad)
+console.log(verEdad);
