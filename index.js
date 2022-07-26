@@ -32,4 +32,11 @@ document.addEventListener("click", (e)=>{
 
     alert("click en el botón");
   }
-})
+});
+
+
+const isaac = {nombre:"isaac"}
+const urdaneta = {apellido: "urdaneta"}
+
+localStorage.setItem("nombre", isaac);
+localStorage.setItem("apellido", urdaneta);
