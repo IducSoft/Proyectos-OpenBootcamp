@@ -1,0 +1,26 @@
+*,
+*::after,
+*::before{
+
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.seccion{
+
+    padding: 1rem;
+    margin: 1rem;
+    background-color: blueviolet;
+}
+
+.parrafo{
+
+    background-color: wheat;
+    padding: 1rem;
+}
+
+.dragging{
+
+    opacity: 0.3;
+}
